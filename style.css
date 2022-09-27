@@ -25,6 +25,22 @@ html{
     scroll-padding-top: 6.5rem ;
     scroll-behavior: smooth;
 }
+
+
+.first{
+    background: #eeebc8;
+    background-size: 100%;
+    padding: 12px;
+}
+.first a{
+    color: #b8ac05;
+    font-size: 17px;
+    margin-left: 65%;
+    padding-left: 1%;
+    text-align: right;
+    align-items: right;  
+}
+
 section{
     padding: 2rem 2%;
 }
